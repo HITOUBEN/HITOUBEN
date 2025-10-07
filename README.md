@@ -1,4 +1,4 @@
-# Hello, Friend! 👋 
+# Salut ! 👋 
 
 <img align="right" src="./binarytree.png" alt="Arbre binaire" width="320" style="border-radius: 12px; background: transparent; box-shadow: none; mix-blend-mode: multiply;" />
 
