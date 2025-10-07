@@ -1,9 +1,9 @@
-# Hello, Friend! 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/HIT0UBEN/HIT0UBEN/main/logo-shield-heart.svg" width="55" alt="Logo" style="vertical-align: middle; margin-right: 8px;" />
+  Hello, Friend!
+</h1>
 
-<img src="https://raw.githubusercontent.com/HITOUBEN/HITOUBEN/refs/heads/main/logo-shield-heart.svg" width="70" alt="Logo" />
-
-
-<img align="right" src="./binarytree.png" alt="Arbre binaire" width="320" 
+<img align="right" src="./binarytree.png" alt="Arbre binaire" width="320"
      style="border-radius: 12px; background: transparent; box-shadow: none; mix-blend-mode: multiply;" />
 
 **Ahmed BEN MORRI** — Ingénieur **Cybersécurité** · **Assistant RSSI** (environnement hospitalier)  
