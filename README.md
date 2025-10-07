@@ -55,11 +55,16 @@ ISO 27001 • RGPD • HDS (santé)
 
 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmedbenmorricybersecurite/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Retrouvez--moi%20sur%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" style="border-radius: 12px; padding: 6px 10px;"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedbenmorricybersecurite/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Retrouvez--moi%20sur%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Button" 
+      style="border-radius: 40px; padding: 10px 16px;" 
+    />
   </a>
-</div>
+</p>
+
 
 
 <p align="center">
