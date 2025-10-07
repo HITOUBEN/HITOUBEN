@@ -1,5 +1,9 @@
 # Hello, Friend! 👋
 
+<p align="left">
+  <img src="./logo-shield-heart.svg" width="70" alt="Logo santé et cybersécurité" style="vertical-align: middle; margin-right: 8px;" />
+</p>
+
 <img align="right" src="./binarytree.png" alt="Arbre binaire" width="320" 
      style="border-radius: 12px; background: transparent; box-shadow: none; mix-blend-mode: multiply;" />
 
@@ -59,7 +63,7 @@ ISO 27001 • RGPD • HDS (santé)
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedbenmorricybersecurite/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Retrouvez--moi%20sur%20LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/Retrouvez--moi%20sur%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn Button"
       style="border-radius: 40px; padding: 10px 16px;"
     />
