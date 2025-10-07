@@ -21,7 +21,7 @@ Cap sur la **cyber cloud / GRC technique** (Azure, IAM, durcissement, SOC).
 - ⚙️ **Automatisation** : **PowerShell** / **Python** (déploiement, logs, tâches récurrentes)  
 - ☁️ **Cloud (orientation)** : bonnes pratiques **Azure**, MFA, IAM, segmentation  
 
-
+---
 
 <details>
 <summary><strong>🔧 Outils & environnements</strong></summary>
