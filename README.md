@@ -68,3 +68,7 @@ ISO 27001 • RGPD • HDS (santé)
 <p align="center">
   <img src="https://raw.githubusercontent.com/HITOUBEN/HITOUBEN/refs/heads/main/logo-shield-heart.svg" width="70" alt="Logo bouclier santé & cybersécurité" />
 </p>
+
+<p align="center">
+  <em>Sécuriser, gouverner et faire évoluer les systèmes de demain.</em>
+</p>
