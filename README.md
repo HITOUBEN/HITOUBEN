@@ -1,6 +1,6 @@
 # Hello, Friend! 👋
 
-<img align="right" src="./binarytree.jpeg" alt="Arbre binaire" width="320" 
+<img align="right" src="./binarytree.png" alt="Arbre binaire" width="320" 
      style="border-radius: 12px; background: transparent; box-shadow: none; mix-blend-mode: multiply;" />
 
 **Ahmed BEN MORRI** — Ingénieur **Cybersécurité** · **Assistant RSSI** (environnement hospitalier)  
