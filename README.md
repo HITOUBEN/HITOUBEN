@@ -1,5 +1,4 @@
 # Hello, Friend! 👋 
-<img src="https://raw.githubusercontent.com/HITOUBEN/HITOUBEN/refs/heads/main/logo-shield-heart.svg" width="70" alt="Logo" />
 
 <img align="right" src="./binarytree.png" alt="Arbre binaire" width="320" style="border-radius: 12px; background: transparent; box-shadow: none; mix-blend-mode: multiply;" />
 
@@ -64,4 +63,8 @@ ISO 27001 • RGPD • HDS (santé)
       style="border-radius: 40px; padding: 10px 16px;" 
     />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HIT0UBEN/HIT0UBEN/main/logo-shield-heart.svg" width="70" alt="Logo bouclier santé & cybersécurité" />
 </p>
