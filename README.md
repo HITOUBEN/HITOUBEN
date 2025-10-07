@@ -1,6 +1,7 @@
 # Hello, Friend! 👋
 
-<img src="logo-shield-heart.svg" width="70" alt="Logo" />
+<img src="./logo-shield-heart.png" width="70" alt="Logo" />
+
 
 
 <img align="right" src="./binarytree.png" alt="Arbre binaire" width="320" 
