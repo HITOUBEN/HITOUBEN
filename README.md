@@ -1,8 +1,6 @@
 # Hello, Friend! 👋
 
-<p align="left">
-  <img src="./logo-shield-heart.svg" width="70" alt="Logo santé & cybersécurité" />
-</p>
+<img src="logo-shield-heart.svg" width="70" alt="Logo" />
 
 
 <img align="right" src="./binarytree.png" alt="Arbre binaire" width="320" 
