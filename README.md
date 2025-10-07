@@ -21,7 +21,7 @@ Cap sur la **cyber cloud / GRC technique** (Azure, IAM, durcissement, SOC).
 - ⚙️ **Automatisation** : **PowerShell** / **Python** (déploiement, logs, tâches récurrentes)  
 - ☁️ **Cloud (orientation)** : bonnes pratiques **Azure**, MFA, IAM, segmentation  
 
----
+
 
 <details>
 <summary><strong>🔧 Outils & environnements</strong></summary>
@@ -42,7 +42,7 @@ PowerShell • Python • Bash
 ISO 27001 • RGPD • HDS (santé)  
 </details>
 
----
+
 
 <details>
 <summary><strong>🎓 Parcours & objectifs</strong></summary>
@@ -53,7 +53,7 @@ ISO 27001 • RGPD • HDS (santé)
 - 🎯 2025–2026 : **Cyber Cloud Security** (Azure Security, IAM), SOC/GRC technique  
 </details>
 
----
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedbenmorricybersecurite/" target="_blank">
