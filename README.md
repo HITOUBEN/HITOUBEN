@@ -1,10 +1,7 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/HIT0UBEN/HIT0UBEN/main/logo-shield-heart.svg" width="55" alt="Logo" style="vertical-align: middle; margin-right: 8px;" />
-  Hello, Friend!
-</h1>
+# Hello, Friend! 👋 
+<img src="https://raw.githubusercontent.com/HITOUBEN/HITOUBEN/refs/heads/main/logo-shield-heart.svg" width="70" alt="Logo" />
 
-<img align="right" src="./binarytree.png" alt="Arbre binaire" width="320"
-     style="border-radius: 12px; background: transparent; box-shadow: none; mix-blend-mode: multiply;" />
+<img align="right" src="./binarytree.png" alt="Arbre binaire" width="320" style="border-radius: 12px; background: transparent; box-shadow: none; mix-blend-mode: multiply;" />
 
 **Ahmed BEN MORRI** — Ingénieur **Cybersécurité** · **Assistant RSSI** (environnement hospitalier)  
 Profil **hybride** : gouvernance & conformité **+** sécurité opérationnelle & automatisation.  
@@ -62,9 +59,9 @@ ISO 27001 • RGPD • HDS (santé)
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedbenmorricybersecurite/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Retrouvez--moi%20sur%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Button"
-      style="border-radius: 40px; padding: 10px 16px;"
+      src="https://img.shields.io/badge/Retrouvez--moi%20sur%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Button" 
+      style="border-radius: 40px; padding: 10px 16px;" 
     />
   </a>
 </p>
