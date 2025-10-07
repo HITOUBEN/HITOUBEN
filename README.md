@@ -47,7 +47,7 @@ ISO 27001 • RGPD • HDS (santé)
 <details>
 <summary><strong>🎓 Parcours & objectifs</strong></summary>
 
- 📘 **M2 Cybersécurité – EPSI Paris**  
+- 📘 **M2 Cybersécurité – EPSI Paris**  
 - 💼 **Assistant RSSI** — Centre Hospitalier Victor Dupouy (sécurité & réseau)  
 - 🏅 **ISO 27001 Foundation (PECB)** & **eJPT** · *(CRTP en préparation)*  
 - 🎯 2025–2026 : **Cyber Cloud Security** (Azure Security, IAM), SOC/GRC technique  
