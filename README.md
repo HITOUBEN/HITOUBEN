@@ -15,7 +15,7 @@ Cap sur la **cyber cloud / GRC technique** (Azure, IAM, durcissement, SOC).
 
 ### Ce que je fais, concrètement
 - 🩺 **Sécurité hôpital** : gestion des accès, VPN, disponibilité SI, sensibilisation & phishing  
-- 🛡️ **Ops & détection** :**SentinelOne** (EDR/XDR), **Wazuh**, **Snort**, **Splunk**, **Sekoia**, PRTG/Nagios  
+- 🛡️ **Ops & détection** : **SentinelOne** (EDR/XDR), **Wazuh**, **Snort**, **Splunk**, **Sekoia**, PRTG/Nagios  
 - 🧰 **Admin & durcissement** : **pfSense**, VLAN, AD/GPO, Fortinet, durcissement Windows/Linux  
 - 🕵️ **Offensif (bases)** : **Burp**, **Nessus/OpenVAS**, **Metasploit**, OWASP Top 10  
 - ⚙️ **Automatisation** : **PowerShell** / **Python** (déploiement, logs, tâches récurrentes)  
